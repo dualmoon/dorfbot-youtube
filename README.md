@@ -1,6 +1,6 @@
-# hubot-youtube
+# dorfbot-youtube
 
-A hubot script for searching YouTube
+A hubot script for searching YouTube, forked from the default hubot-youtube package
 
 See [`src/youtube.coffee`](src/youtube.coffee) for full documentation.
 
@@ -8,19 +8,19 @@ See [`src/youtube.coffee`](src/youtube.coffee) for full documentation.
 
 In hubot project repo, run:
 
-`npm install hubot-youtube --save`
+`npm install dorfbot-youtube --save`
 
 Then add **hubot-youtube** to your `external-scripts.json`:
 
 ```json
 [
-  "hubot-youtube"
+  "dorfbot-youtube"
 ]
 ```
 
 ## Sample Interaction
 
 ```
-user1> hubot youtube no no no cat remix
-hubot> http://www.youtube.com/watch?v=z7OJ3vDqyw8&feature=youtube_gdata
+user1> hubot youtube the feast and the famine
+hubot> http://www.youtube.com/watch?v=uPv0AOlTxXA&feature=youtube_gdata
 ```
