@@ -1,16 +1,16 @@
 # dorfbot-youtube
 
-A hubot script for searching YouTube, forked from the default hubot-youtube package
+A dorfbot flavored hubot script for searching YouTube, forked from the default hubot-youtube package
 
 See [`src/youtube.coffee`](src/youtube.coffee) for full documentation.
 
 ## Installation
 
-In hubot project repo, run:
+In your hubot project repo, run:
 
 `npm install dorfbot-youtube --save`
 
-Then add **hubot-youtube** to your `external-scripts.json`:
+Then add **dorfbot-youtube** to your `external-scripts.json`:
 
 ```json
 [
