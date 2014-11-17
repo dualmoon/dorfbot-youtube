@@ -1,6 +1,6 @@
 # dorfbot-youtube
 
-A dorfbot flavored hubot script for searching YouTube, forked from the default hubot-youtube package
+A dorfbot flavored hubot script for searching YouTube, forked from the default [hubot-youtube][hubot-youtube] package
 
 See [`src/youtube.coffee`](src/youtube.coffee) for full documentation.
 
@@ -24,3 +24,5 @@ Then add **dorfbot-youtube** to your `external-scripts.json`:
 user1> hubot youtube the feast and the famine
 hubot> http://www.youtube.com/watch?v=uPv0AOlTxXA&feature=youtube_gdata
 ```
+
+[hubot-youtube]: https://github.com/hubot-scripts/hubot-youtube
