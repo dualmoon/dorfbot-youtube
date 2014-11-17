@@ -1,16 +1,16 @@
 {
-  "name": "hubot-youtube",
+  "name": "dorfbot-youtube",
   "description": "A hubot script for searching YouTube",
-  "version": "0.1.2",
-  "author": "Josh Nichols <technicalpickles@github.com>",
+  "version": "0.1.0",
+  "author": "Ashley Luna <luna@airsi.de>",
   "license": "MIT",
-  "keywords": "hubot, hubot-scripts, youtube",
+  "keywords": "hubot, hubot-scripts, youtube, dorfbot",
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-youtube.git"
+    "url": "git://github.com/dualmoon/dorfbot-youtube.git"
   },
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-youtube/issues"
+    "url": "https://github.com/dualmoon/dorfbot-youtube/issues"
   },
   "dependencies": {},
   "peerDependencies": {
